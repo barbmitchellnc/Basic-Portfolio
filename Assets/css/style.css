@@ -126,6 +126,7 @@ p{
 
 .floating-box {
     display: inline-block;
+    float:right;
     width: 200px;
     height: 110px;
     margin: 10px;
